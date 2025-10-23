@@ -1,0 +1,4 @@
+matplotlib
+numpy
+jupyter-book
+scikit-learn
