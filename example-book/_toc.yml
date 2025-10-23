@@ -1,0 +1,13 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Classification
+    chapters:
+      - file: classification/plot_digits_agglomeration.ipynb
+      - file: classification/plot_linkage_comparison.ipynb
+      - file: volume1/chapter3
+
+  - caption: Regression
+    chapters:
+      - file: regression/plot_kmeans_plusplus.ipynb
+      - file: regression/plot_ward_structured_vs_unstructured.ipynb
